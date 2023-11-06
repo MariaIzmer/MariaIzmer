@@ -1,0 +1,15 @@
+@media screen {
+    body {
+        font-family: sans-serif;
+        font-size: 14px;
+        background-color: #756a6a;
+    }
+}
+
+@media print {
+    body {
+        font-family: sans-serif;
+        font-size: 14px;
+        background-color: #150c0c;
+    }
+}
